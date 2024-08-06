@@ -1,0 +1,33 @@
+img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 200px;
+    width: 350px;
+}
+
+form{
+    text-align: center;
+}
+
+input{
+    font-family: Helvetica;
+    font-size: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#searchbar{
+    width: 550px;
+    
+    border-color: rgb(28, 25, 25);
+    border-radius: 50px;
+    border-width: 2px;
+}
+
+#search{
+    margin-right: 5px;
+    margin-top: 10px;
+    text-align: right;
+    color: black;
+    font-family: Helvetica;
+}
